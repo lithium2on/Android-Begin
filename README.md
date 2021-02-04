@@ -30,10 +30,10 @@ Android 개발, MVC 패턴, Json Api 등
    - 리스트 클릭시 상세페이지 
 
 # 이미지
-<p align="center"><img src = "https://user-images.githubusercontent.com/78474074/106848815-09100e80-66f5-11eb-81de-5391e09d92ca.png" width="180px">
-<img src = "https://user-images.githubusercontent.com/78474074/106848820-0ad9d200-66f5-11eb-917b-c39d8907764d.png" width="180px">
-<img src = "https://user-images.githubusercontent.com/78474074/106848823-0c0aff00-66f5-11eb-9790-67c2ff0c8d40.png" width="180px">
-<img src = "https://user-images.githubusercontent.com/78474074/106848829-0ca39580-66f5-11eb-9c17-07e7b8aa24b3.png" width="180px">
-<img src = "https://user-images.githubusercontent.com/78474074/106848831-0d3c2c00-66f5-11eb-85a3-ebbcb6dc1a69.png" width="180px"></p>
+<p align="center"><img src = "https://user-images.githubusercontent.com/78474074/106848815-09100e80-66f5-11eb-81de-5391e09d92ca.png" width="160px">
+<img src = "https://user-images.githubusercontent.com/78474074/106848820-0ad9d200-66f5-11eb-917b-c39d8907764d.png" width="160px">
+<img src = "https://user-images.githubusercontent.com/78474074/106848823-0c0aff00-66f5-11eb-9790-67c2ff0c8d40.png" width="160px">
+<img src = "https://user-images.githubusercontent.com/78474074/106848829-0ca39580-66f5-11eb-9c17-07e7b8aa24b3.png" width="160px">
+<img src = "https://user-images.githubusercontent.com/78474074/106848831-0d3c2c00-66f5-11eb-85a3-ebbcb6dc1a69.png" width="160px"></p>
  
  
