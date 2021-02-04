@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="첫화면"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/buttonNaver"
+            style="@style/Button.Menu"
+            android:text="네이버로그인으로 가기" />
+
+        <Button
+            android:id="@+id/buttonGps"
+            style="@style/Button.Menu"
+            android:text="gps로 가기" />
+
+        <Button
+            android:id="@+id/buttonSignup"
+            style="@style/Button.Menu"
+            android:text="회원가입(eclipse tomcat oracle)" />
+
+        <Button
+            android:id="@+id/buttonSll"
+            style="@style/Button.Menu"
+            android:text="당근마켓" />
+
+
+
+
+        <!--        <Button
+                    android:id="@+id/buttonSignupSpring"
+                    style="@style/Button.Menu"
+                    android:text="회원가입(spring mybatis maven)" />
+                <Button
+                    android:id="@+id/buttonSigninSma"
+                    style="@style/Button.Menu"
+                    android:text="회원가입(android spring mybatis mvc)" />-->
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
